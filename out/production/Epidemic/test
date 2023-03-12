@@ -1,0 +1,10 @@
+population 10;
+infected 5;
+place world 1 0;
+role human 1 world;
+end 10;
+
+latent       2.0 1.5;
+asymptomatic 3   2.5;
+symptomatic  5.5 2.5 0.9;
+bedridden    8   5   0.9;
